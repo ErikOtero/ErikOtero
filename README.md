@@ -1,4 +1,4 @@
-<h1 align="center">Erik Otero</h1>
+<h1 align="center">Erik Leonel Otero</h1>
 
 <h3 align="center">
   Information Systems Engineer | Software Engineer
